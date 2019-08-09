@@ -13,7 +13,8 @@ def link
   puts phrase
 end
 
-def any_phrase(phrase)
+def any_phrase
+  a + b = phrase 
   phrase = "Do A Barrel Roll!"
-  return phrase 
+  a+b
 end 
