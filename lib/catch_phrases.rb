@@ -14,4 +14,4 @@ def link
 end
 
 def anyphrase (phrase)
-  phrase = 
+  phrase = "Do A "
